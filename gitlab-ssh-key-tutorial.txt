@@ -1,1 +1,7 @@
 https://www.youtube.com/watch?v=iXuIp5uNnLk
+
+ssh-keygen
+
+- enter, enter ;)
+
+cat /home/ivan/.ssh/id_rsa.pub
