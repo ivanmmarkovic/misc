@@ -1,0 +1,3 @@
+Greedy Algorithms Powerful Guide
+
+https://leetcode.com/discuss/general-discussion/1105430/greedy-algorithms-powerful-guide
