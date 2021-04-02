@@ -1,0 +1,25 @@
+### Node
+
+https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express
+
+https://www.linkedin.com/learning/node-js-securing-restful-apis-2
+
+https://www.linkedin.com/learning/node-js-security
+
+### Quarkus
+
+https://www.linkedin.com/learning/learning-quarkus
+
+### Micronaut
+
+https://www.linkedin.com/learning/java-microservices-with-graalvm
+
+
+
+https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1
+
+https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2
+
+https://www.linkedin.com/learning/java-ee-concurrency-and-multithreading
+
+https://www.linkedin.com/learning/functional-programming-with-java
